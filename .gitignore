@@ -1,0 +1,11 @@
+.idea/
+
+**/*.sln**
+
+**/bin/
+bin/
+
+**/obj/
+obj/
+
+**/App.config
